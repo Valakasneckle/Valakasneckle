@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Bohdan Moskalenko
 
-<!--
-**Valakasneckle/Valakasneckle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on SaaS, CRM platforms, dashboards, AI-assisted systems and workflow automation.
 
-Here are some ideas to get you started:
+## What I build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- CRM and internal business platforms
+- Admin panels and dashboards
+- AI-powered tools and workflows
+- Automation systems for operations teams
+- Web applications and API integrations
+
+## Tech stack
+
+- Frontend: Next.js, React, TypeScript, Tailwind CSS
+- Backend: Node.js, Express / NestJS
+- Database: PostgreSQL, Prisma
+- Integrations: REST APIs, webhooks, external services
+- AI: OpenAI / Claude integrations, workflow automation, document-related tools
+
+## Selected work
+
+- AI CRM for accounting workflows
+- Operations dashboards and admin systems
+- Business process automation tools
+- Internal platforms for teams and managers
+
+## Contact
+
+- LinkedIn: your-link
+- Email: your-email
