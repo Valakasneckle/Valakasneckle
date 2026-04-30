@@ -27,5 +27,5 @@ Full Stack Developer focused on SaaS, CRM platforms, dashboards, AI-assisted sys
 
 ## Contact
 
-- LinkedIn: your-link
-- Email: your-email
+- Email: aiwork2025as@gmail.com
+
